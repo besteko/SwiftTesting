@@ -16,6 +16,7 @@
 		9A52E7492ADC31D100D796D9 /* SwiftTestingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A52E7482ADC31D100D796D9 /* SwiftTestingTests.swift */; };
 		9A52E7532ADC31D100D796D9 /* SwiftTestingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A52E7522ADC31D100D796D9 /* SwiftTestingUITests.swift */; };
 		9A52E7552ADC31D100D796D9 /* SwiftTestingUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A52E7542ADC31D100D796D9 /* SwiftTestingUITestsLaunchTests.swift */; };
+		9AD715CA2ADD16BE00268736 /* MathematicFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AD715C92ADD16BE00268736 /* MathematicFunctions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		9A52E74E2ADC31D100D796D9 /* SwiftTestingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftTestingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A52E7522ADC31D100D796D9 /* SwiftTestingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftTestingUITests.swift; sourceTree = "<group>"; };
 		9A52E7542ADC31D100D796D9 /* SwiftTestingUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftTestingUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9AD715C92ADD16BE00268736 /* MathematicFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MathematicFunctions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				9A52E7312ADC31D000D796D9 /* AppDelegate.swift */,
 				9A52E7332ADC31D000D796D9 /* SceneDelegate.swift */,
 				9A52E7352ADC31D000D796D9 /* ViewController.swift */,
+				9AD715C92ADD16BE00268736 /* MathematicFunctions.swift */,
 				9A52E7372ADC31D000D796D9 /* Main.storyboard */,
 				9A52E73A2ADC31D100D796D9 /* Assets.xcassets */,
 				9A52E73C2ADC31D100D796D9 /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			files = (
 				9A52E7362ADC31D000D796D9 /* ViewController.swift in Sources */,
 				9A52E7322ADC31D000D796D9 /* AppDelegate.swift in Sources */,
+				9AD715CA2ADD16BE00268736 /* MathematicFunctions.swift in Sources */,
 				9A52E7342ADC31D000D796D9 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
